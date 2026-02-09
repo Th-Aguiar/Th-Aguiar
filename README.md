@@ -23,10 +23,12 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência tanto na criaç
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Th-Aguiar&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Th-Aguiar&layout=compact&theme=radical" />
 </p>
 
+### 📈 Minha Atividade
+![Gráfico de Contribuições](https://ssr-contributions-svg.vercel.app/_/Th-Aguiar?chart=lines&format=svg&weeks=18&theme=radical)
 ---
 
 ### 📫 Como me encontrar
@@ -63,18 +65,6 @@ Aplicação desktop completa desenvolvida em Python e SQLite.
 
 #### [🌐 TODO LIST](https://github.com/Th-Aguiar/TodoList---EJS-MongoDB-Mongoose-)
 Descreva aqui um projeto que você fez usando seu stack de Front-End ou Node.js.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Th-Aguiar&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Th-Aguiar&layout=compact&theme=radical" />
-</p>
-
-### 📈 Minha Atividade
-![Gráfico de Contribuições](https://ssr-contributions-svg.vercel.app/_/Th-Aguiar?chart=lines&format=svg&weeks=18&theme=radical)
 
 ---
 
