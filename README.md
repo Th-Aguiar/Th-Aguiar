@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência tanto na criaç
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/thaguiiar/))(# Olá, eu sou o Thiago)! 👋
+- **LinkedIn:** ((https://www.linkedin.com/in/thaguiiar/))(# Olá, eu sou o Thiago)! 👋
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação | Python & JavaScript
 
@@ -77,7 +77,7 @@ Descreva aqui um projeto que você fez usando seu stack de Front-End ou Node.js.
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/thaguiiar/))
+- **LinkedIn:** ((https://www.linkedin.com/in/thaguiiar/))
 - **E-mail:** aguiar.dev.br@gmail.com
 
 ---
@@ -85,10 +85,4 @@ Descreva aqui um projeto que você fez usando seu stack de Front-End ou Node.js.
 <p align="center">
   <i>"Transformando café em código e ideias em realidade."</i>
 </p>)
-- **E-mail:** seuemail@exemplo.com
 
----
-
-<p align="center">
-  <i>"Transformando café em código e ideias em realidade."</i>
-</p>
