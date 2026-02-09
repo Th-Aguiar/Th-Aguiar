@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Thiago! 👋
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação | Python & JavaScript
 
@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência tanto na criaç
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/thaguiiar/))(# Olá, eu sou o Thiago! 👋
+- **LinkedIn:** ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/thaguiiar/))(# Olá, eu sou o Thiago)! 👋
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação | Python & JavaScript
 
