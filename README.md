@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência tanto na criaç
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** ((https://www.linkedin.com/in/thaguiiar/))(# Olá, eu sou o Thiago)! 👋
+- **LinkedIn:**(https://www.linkedin.com/in/thaguiiar/) # Olá, eu sou o Thiago! 👋
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação | Python & JavaScript
 
@@ -61,7 +61,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência tanto na criaç
 Aplicação desktop completa desenvolvida em Python e SQLite.
 * **Destaque:** Implementação de CRUD, dashboard de valores totais e interface intuitiva com Tkinter.
 
-#### [🌐 TODO LIST](https://github.com/Th-Aguiar/TodoList---EJS-MongoDB-Mongoose-))
+#### [🌐 TODO LIST](https://github.com/Th-Aguiar/TodoList---EJS-MongoDB-Mongoose-)
 Descreva aqui um projeto que você fez usando seu stack de Front-End ou Node.js.
 
 ---
@@ -69,15 +69,15 @@ Descreva aqui um projeto que você fez usando seu stack de Front-End ou Node.js.
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th-Aguiar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Aguiar&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 ---
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** ((https://www.linkedin.com/in/thaguiiar/))
+- **LinkedIn:** (https://www.linkedin.com/in/thaguiiar/)
 - **E-mail:** aguiar.dev.br@gmail.com
 
 ---
